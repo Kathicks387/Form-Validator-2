@@ -1,0 +1,20 @@
+.form {
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+}
+
+#error {
+  color: red;
+}
+
+.field {
+  margin-top: 15px;
+}
+button {
+  margin-top: 10px;
+}
